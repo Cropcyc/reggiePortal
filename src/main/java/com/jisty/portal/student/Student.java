@@ -32,7 +32,7 @@ public class Student {
     }
 
     public String getMatricNumber() {
-        return this.matricNumber;
+        return matricNumber;
     }
 
     public void setMatricNumber(String matricNumber) {
@@ -40,7 +40,7 @@ public class Student {
     }
 
     public String getNameOfStudent() {
-        return this.nameOfStudent;
+        return nameOfStudent;
     }
 
     public void setNameOfStudent(String nameOfStudent) {
@@ -48,7 +48,7 @@ public class Student {
     }
 
     public String getCourseOfStudy() {
-        return this.courseOfStudy;
+        return courseOfStudy;
     }
 
     public void setCourseOfStudy(String courseOfStudy) {
@@ -56,7 +56,7 @@ public class Student {
     }
 
     public String getNumberOfUnits() {
-        return this.numberOfUnits;
+        return numberOfUnits;
     }
 
     public void setNumberOfUnits(String numberOfUnits) {
